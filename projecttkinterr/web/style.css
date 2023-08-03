@@ -1,0 +1,17 @@
+h1{
+    color: brown;
+}
+.box{
+    width=50px;
+    height: 50px;
+    background:red ;
+    transition: 1s;
+}
+.box:hover{
+    width=50px;
+    height: 50px;
+    background:greenyellow ;
+    border-color: black;
+    border-radius: 50%;
+    transition: 1s;
+}
